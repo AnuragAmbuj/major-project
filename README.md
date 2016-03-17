@@ -7,6 +7,7 @@ For compiling and exectiong the project locally you need to have:
 + Eclipse J2EE with Google plugin installed
 + Visual Studio 2015 Community or above for Windows 10 Mobile application
 + Android Studio 1.4 for Android based Mobile Application
+
 _____
 
 ##Major Project Team
