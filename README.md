@@ -13,10 +13,10 @@ _____
 ##Major Project Team
 ### **Guide**: Mrs. Sharmila S.P., Assistant Professor, Dept. of ISE
 ### **Team**:
-+ ### Anurag Ambuj
-+ ### Avinash Kumar
-+ ### Richa Sinha
-+ ### Shubham Shekhar
++ **Anurag Ambuj**
++ **Avinash Kumar**
++ **Richa Sinha**
++ **Shubham Shekhar**
 
 _____
 
